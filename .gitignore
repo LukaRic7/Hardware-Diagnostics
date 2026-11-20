@@ -1,0 +1,6 @@
+liveview.spec
+build/
+dist/
+HardwareMonitor/bin/
+HardwareMonitor/obj/
+Release/
